@@ -1,0 +1,1 @@
+# appscript-gcp-secret-manager
